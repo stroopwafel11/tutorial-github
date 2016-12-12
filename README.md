@@ -72,7 +72,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 Step | Screenshot
 ---- | ----------
-Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. | ![commitchanges](image/5.PNG image/6.PNG)
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. | ![commitchanges](image/5.PNG)![commitchanges](image/6.PNG)
 Select the branch you made, readme-edits, to compare with master (the original). |  ![commitchanges](image/7.PNG)
 Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![commitchanges](image/8.PNG)
 When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/9.PNG)
