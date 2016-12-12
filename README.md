@@ -12,7 +12,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 3. Write a short description.
 4. Select **Initialize this repository with a README**.
 
-![GitHub Logo](image/1.png)
+![GitHub Logo](image/1.PNG)
 
 Click **Create repository** :tada:
 
@@ -24,7 +24,7 @@ When you create a branch off the `master` branch, you’re making a copy, or sna
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
-![GitHub Logo](image/2.png)
+![GitHub Logo](image/2.PNG)
 
 Have you ever saved different versions of a file? Something like:
 * `story.txt`
@@ -41,7 +41,7 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 3. Type a branch name, readme-edits, into the new branch text box.
 4. Select the blue **Create branch** box or hit “Enter” on your keyboard.
 
-![Newbranch](image/3.png)
+![Newbranch](image/3.PNG)
 
 Now you have two branches, `master` and `readme-edits`. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
@@ -54,7 +54,7 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 4. Write a commit message that describes your changes.
 5. Click **Commit changes** button.
 
-![commitchanges](image/4.png)
+![commitchanges](image/4.PNG)
 
 These changes will be made to just the README file on your `readme-edits` branch, so now this branch contains content that’s different from `master`.
 
@@ -72,11 +72,11 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 Step | Screenshot
 ---- | ----------
-Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. | ![commitchanges](image/5.png image/6.png)
-Select the branch you made, readme-edits, to compare with master (the original). |  ![commitchanges](image/7.png)
-Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![commitchanges](image/8.png)
-When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/9.png)
-Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/10.png)
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. | ![commitchanges](image/5.PNG image/6.PNG)
+Select the branch you made, readme-edits, to compare with master (the original). |  ![commitchanges](image/7.PNG)
+Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![commitchanges](image/8.PNG)
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/9.PNG)
+Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/10.PNG)
 When you’re done with your message, click **Create pull request!**
 > **Tip**: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
 
@@ -87,7 +87,7 @@ In this final step, it’s time to bring your changes together – merging your 
 2. Click **Confirm merge**.
 3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
  
- ![Deletebranch](image/11.png)
+ ![Deletebranch](image/11.PNG)
  
 ### Celebrate!
 By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! :tada: :octocat: :zap:  
