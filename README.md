@@ -67,7 +67,6 @@ By using GitHub’s @mention system in your pull request message, you can ask fo
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
 ### **Open a Pull Request for changes to the README**
-*Click on the image for a larger version*
 
 Step | Screenshot
 ---- | ----------
