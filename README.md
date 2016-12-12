@@ -14,7 +14,6 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 ![GitHub Logo](image/1.PNG)
 
-Click **Create repository** :tada:
 
 # Step 2. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
